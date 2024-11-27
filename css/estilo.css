@@ -1,0 +1,23 @@
+#sin_bola {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    border: 20px;
+    border-color: black;
+    background-color: transparent;
+}
+
+a:hover {
+    color: black;
+    
+}
+
+li:hover{
+    padding: 2px 100px 2px 20px;
+    border: 20px;
+    border-color: black;
+    background-color: transparent;
+}
